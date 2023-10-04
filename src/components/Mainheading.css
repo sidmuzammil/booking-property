@@ -1,0 +1,12 @@
+.main-heading{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 1rem;
+    justify-content: center;
+    text-align: center;
+}
+.main-heading p{
+    max-width: 35vw;
+    margin-top: .5rem;
+}
